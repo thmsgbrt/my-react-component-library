@@ -1,7 +1,7 @@
 {
-  "name": "my-react-component-library",
+  "name": "@thmsgbrt/my-react-component-library",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">My React Component Library 👋</h1> <p>   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000\" />   <a href=\"https://github.com/thmsgbrt/my-react-component-library#readme\" target=\"_blank\">     <img alt=\"Documentation\" src=\"https://img.shields.io/badge/documentation-yes-brightgreen.svg\" />   </a>   <a href=\"https://github.com/thmsgbrt/my-react-component-library/graphs/commit-activity\" target=\"_blank\">     <img alt=\"Maintenance\" src=\"https://img.shields.io/badge/Maintained%3F-yes-green.svg\" />   </a>   <a href=\"https://github.com/thmsgbrt/my-react-component-library/blob/master/LICENSE\" target=\"_blank\">     <img alt=\"License: MIT\" src=\"https://img.shields.io/github/license/thmsgbrt/My React Component Library\" />   </a>   <a href=\"https://twitter.com/guibz16\" target=\"_blank\">     <img alt=\"Twitter: guibz16\" src=\"https://img.shields.io/twitter/follow/guibz16.svg?style=social\" />   </a> </p>",
+  "description": "My personal React component Library - tutorial",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "scripts": {
@@ -31,5 +31,12 @@
     "rollup-plugin-delete": "^1.1.0",
     "rollup-plugin-typescript2": "^0.24.3",
     "typescript": "^3.6.4"
+  },
+  "files": [
+    "dist"
+  ],
+  "typings": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
