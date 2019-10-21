@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/thmsgbrt/my-react-component-library/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/thmsgbrt/My React Component Library" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/thmsgbrt/my-react-component-library" />
   </a>
   <a href="https://twitter.com/guibz16" target="_blank">
     <img alt="Twitter: guibz16" src="https://img.shields.io/twitter/follow/guibz16.svg?style=social" />
