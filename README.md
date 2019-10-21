@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> This is the final project of my "Build your own React component library and publish it to GitHub Package Registry" article on medium. [Check it out!](https://github.com/thmsgbrt)
+> This is the final project of my "Build a React Component Library and Publish to the GitHub Package Registry" article on medium. [Check it out!](https://medium.com/better-programming/build-your-very-own-react-component-library-and-publish-it-to-github-package-registry-192a688a51fd)
 
 ### 🏠 [Homepage](https://github.com/thmsgbrt/my-react-component-library)
 
@@ -29,12 +29,6 @@ npm run i-all
 
 ```sh
 npm run dev
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
